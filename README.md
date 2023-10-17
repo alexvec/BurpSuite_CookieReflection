@@ -18,6 +18,7 @@ Nevertheless they can assist to find vulnerabilities for [Web Cache Poisoning](h
 *Issue Raised by the Extension, displaying every cookie affected*
 
 ![Higlights](higlights.png)
+
 *Highlighting being done by the extension to show where each cookie reflected is present*
 
 ## References
